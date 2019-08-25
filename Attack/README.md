@@ -1,6 +1,6 @@
 ## Preparing an attack
 
-1. First, make a full-face photo of attacked person, a full-face phot in a hat, and a 
+1. First, make a full-face photo of attacked person, a full-face photo in a hat, and a 
 full-face photo in a hat with an example sticker on the hat. To be sure that you use a
 sticker with the correct size follow instructions:
     1. Download an example.png.
