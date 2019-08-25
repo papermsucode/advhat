@@ -18,8 +18,8 @@ The repository is organized as follows:
 ## Built With
 
 * [InsightFace's ArcFace](https://github.com/deepinsight/insightface) - The SOTA public FaceID model
-* [Kevin Zakka's STN](https://github.com/deepinsight/insightface) - Spatial Transformer realization
+* [Kevin Zakka's STN](https://github.com/kevinzakka/spatial-transformer-network) - Spatial Transformer realization
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
