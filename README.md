@@ -2,7 +2,7 @@
 
 By Stepan Komkov and Aleksandr Petiushko
 
-This is the code repository for the AdvHat research article. The article is available [here](https://arxiv.org/). The video demo is available [here](https://youtu.be/a4iNg0wWBsQ). Code that is used for the article is available right here.
+This is the code repository for the AdvHat research article. The article is available [here](https://arxiv.org/abs/1908.08705). The video demo is available [here](https://youtu.be/a4iNg0wWBsQ). Code that is used for the article is available right here.
 
 ## Abstract
 
