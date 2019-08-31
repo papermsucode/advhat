@@ -20,6 +20,17 @@ The repository is organized as follows:
 * [InsightFace's ArcFace](https://github.com/deepinsight/insightface) - The SOTA public FaceID model
 * [Kevin Zakka's STN](https://github.com/kevinzakka/spatial-transformer-network) - Spatial Transformer realization
 
+## Citation
+
+```
+@article{komkov2019advhat,
+  title={AdvHat: Real-world adversarial attack on ArcFace Face ID system},
+  author={Komkov, Stepan and Petiushko, Aleksandr},
+  journal={arXiv preprint arXiv:1908.08705},
+  year={2019}
+}
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/papermsucode/advhat/blob/master/LICENSE) file for details.
