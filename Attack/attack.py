@@ -147,6 +147,7 @@ def main(args):
                 fdict2[orig_emb] = np.load(args.anchor_emb)[-1:]
         else:
                 anch_im = rescale(io.imread(args.image)/255.,112./600.,order=5)
+                fdict2[image_input] = prep(anch_im)
                 fdict2[orig_emb] = sess.run(embedding,feed_dict=fdict2)
         
         # Attack constants
